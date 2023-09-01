@@ -22,6 +22,9 @@ The term caught on and is now widely used in finance, science, and engineering.
 
 ![png](https://github.com/xxxxyyyy80008/Financial-Modeling-with-Crystal-Ball-and-Excel/blob/main/img/ch1/2.png)
 
+#### @Risk Input Distribution and Output Set Up
 
+
+![png](https://github.com/xxxxyyyy80008/Financial-Modeling-with-Crystal-Ball-and-Excel/blob/main/img/ch1/1.png)
 
 
