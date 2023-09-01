@@ -17,7 +17,7 @@ To keep things simple we will assume that you have $10,000 (AA4) to invest and w
 
 **TABLE 9.1 Means and standard deviations for annual total returns, ![png](https://github.com/xxxxyyyy80008/Financial-Modeling-with-Crystal-Ball-and-Excel/blob/main/img/ch09/4.png) ,during the period 1926 to 2010 for four asset classes.**
 
-![png](https://github.com/xxxxyyyy80008/Financial-Modeling-with-Crystal-Ball-and-Excel/blob/main/img/ch09/f9_1.png)
+![png](https://github.com/xxxxyyyy80008/Financial-Modeling-with-Crystal-Ball-and-Excel/blob/main/img/ch09/t9_1.png)
 
 **TABLE 9.2 Pearson correlation matrix for annual total returns during the period 1926 to 2010 for four asset classes.**
 
