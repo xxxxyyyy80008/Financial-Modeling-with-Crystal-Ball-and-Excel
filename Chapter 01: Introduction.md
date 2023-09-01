@@ -9,7 +9,7 @@ The term **Monte Carlo** was motivated by the similarity of the computer-generat
 The term caught on and is now widely used in finance, science, and engineering.
 
 ### Example
-[Download the Excel file](https://github.com/xxxxyyyy80008/Financial-Modeling-with-Crystal-Ball-and-Excel/blob/main/Excel%20Models/chapter%201/Profit.xlsx)
+[Download the Excel file](https://github.com/xxxxyyyy80008/Financial-Modeling-with-Crystal-Ball-and-Excel/blob/main/Excel%20Models/chapter%2001/Profit.xlsx)
 
 π = SP(1 − V) − F
 
@@ -21,24 +21,24 @@ The term caught on and is now widely used in finance, science, and engineering.
 
 #### @Risk Settings
 
-![png](https://github.com/xxxxyyyy80008/Financial-Modeling-with-Crystal-Ball-and-Excel/blob/main/img/ch1/2.png)
+![png](https://github.com/xxxxyyyy80008/Financial-Modeling-with-Crystal-Ball-and-Excel/blob/main/img/ch01/2.png)
 
 #### @Risk Input Distribution and Output Set Up
 
 
-![png](https://github.com/xxxxyyyy80008/Financial-Modeling-with-Crystal-Ball-and-Excel/blob/main/img/ch1/1.png)
+![png](https://github.com/xxxxyyyy80008/Financial-Modeling-with-Crystal-Ball-and-Excel/blob/main/img/ch01/1.png)
 
 #### @Risk Simulatino Results
 
 Forecast distribution for the simple profit model. The probability that the profit will be between $0 and $350 is 70.7%; the probability of less than $0 profit is 24.3%.
 
-![png](https://github.com/xxxxyyyy80008/Financial-Modeling-with-Crystal-Ball-and-Excel/blob/main/img/ch1/3.png)
+![png](https://github.com/xxxxyyyy80008/Financial-Modeling-with-Crystal-Ball-and-Excel/blob/main/img/ch01/3.png)
 
-![png](https://github.com/xxxxyyyy80008/Financial-Modeling-with-Crystal-Ball-and-Excel/blob/main/img/ch1/4.png)
+![png](https://github.com/xxxxyyyy80008/Financial-Modeling-with-Crystal-Ball-and-Excel/blob/main/img/ch01/4.png)
 
 Sensitivity chart: the input variables (assumptions) V, S, and P are listed from top to bottom in decreasing order of their impact on the output variable (forecast), profit.
 
-![png](https://github.com/xxxxyyyy80008/Financial-Modeling-with-Crystal-Ball-and-Excel/blob/main/img/ch1/5.png)
+![png](https://github.com/xxxxyyyy80008/Financial-Modeling-with-Crystal-Ball-and-Excel/blob/main/img/ch01/5.png)
 
 
 ### RISK MANAGEMENT
