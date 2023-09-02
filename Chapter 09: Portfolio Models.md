@@ -7,7 +7,7 @@
 
 ### Single-Period Crystal Ball Model
 
-[Download Portfolio.xls]()
+[Download Portfolio.xls](https://github.com/xxxxyyyy80008/Financial-Modeling-with-Crystal-Ball-and-Excel/tree/main/Excel%20Models/chapter%2009/Portfolio.xlsx)
 
 #### Overview
 
@@ -76,8 +76,29 @@ The RiskOptimizer in the working
 
 ![png](https://github.com/xxxxyyyy80008/Financial-Modeling-with-Crystal-Ball-and-Excel/blob/main/img/ch09/10.png)
 
+The results shown here were found when using @Risk RiskOptimizer to maximize the mean of the portfolio value forecast in cell AA12, with the additional requirement that the standard deviation of total return be no more than $1,000.
+
+The optimal allocations are (18 percent, 17 percent, 7 percent, 58 percent) for (LCS, SCS, CB, GB). For these allocations, the mean Portfolio Value is $10,849 with a standard deviation of $1,000. 
+
+![png](https://github.com/xxxxyyyy80008/Financial-Modeling-with-Crystal-Ball-and-Excel/blob/main/img/ch09/11.png)
+
+![png](https://github.com/xxxxyyyy80008/Financial-Modeling-with-Crystal-Ball-and-Excel/blob/main/img/ch09/12.png)
+
+![png](https://github.com/xxxxyyyy80008/Financial-Modeling-with-Crystal-Ball-and-Excel/blob/main/img/ch09/15.png)
+
+![png](https://github.com/xxxxyyyy80008/Financial-Modeling-with-Crystal-Ball-and-Excel/blob/main/img/ch09/16.png)
+
+![png](https://github.com/xxxxyyyy80008/Financial-Modeling-with-Crystal-Ball-and-Excel/blob/main/img/ch09/17.png)
+
+![png](https://github.com/xxxxyyyy80008/Financial-Modeling-with-Crystal-Ball-and-Excel/blob/main/img/ch09/18.png)
+
+![png](https://github.com/xxxxyyyy80008/Financial-Modeling-with-Crystal-Ball-and-Excel/blob/main/img/ch09/19.png)
+
+![png](https://github.com/xxxxyyyy80008/Financial-Modeling-with-Crystal-Ball-and-Excel/blob/main/img/ch09/20.png)
+
+![png](https://github.com/xxxxyyyy80008/Financial-Modeling-with-Crystal-Ball-and-Excel/blob/main/img/ch09/21.png)
+
+### Multiperiod Crystal Ball Model
 
 
-### Single-Period Analytical Solution.
 
-### Multiperiod Crystal Ball Model.
