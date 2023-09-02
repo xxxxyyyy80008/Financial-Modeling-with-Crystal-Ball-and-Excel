@@ -5,7 +5,7 @@
 ## Chapter 9: Portfolio Models
 
 
-### Single-Period Crystal Ball Model
+### Single-Period Model
 
 [Download Portfolio.xls](https://github.com/xxxxyyyy80008/Financial-Modeling-with-Crystal-Ball-and-Excel/tree/main/Excel%20Models/chapter%2009/Portfolio.xlsx)
 
@@ -97,8 +97,5 @@ The optimal allocations are (18 percent, 17 percent, 7 percent, 58 percent) for 
 ![png](https://github.com/xxxxyyyy80008/Financial-Modeling-with-Crystal-Ball-and-Excel/blob/main/img/ch09/20.png)
 
 ![png](https://github.com/xxxxyyyy80008/Financial-Modeling-with-Crystal-Ball-and-Excel/blob/main/img/ch09/21.png)
-
-### Multiperiod Crystal Ball Model
-
 
 
